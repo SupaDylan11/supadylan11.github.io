@@ -1,0 +1,29 @@
+h1{
+    color: white;
+}
+
+
+body{
+    color: rgb(203, 222, 228);
+    background-color: rgb(38, 51, 83);
+    font-family: 'Consolas', 'Ariel', sans-serif;
+    font-size: medium;
+}
+
+
+#titlezone, #copyrite{
+    margin-bottom: 10px;
+    background-color: #202A44;
+    border-bottom-width: 2px;
+    border-color: #94a3ca;
+}
+
+.container-fluid{
+    margin: 5px;
+    background-color: #202A44;
+
+}
+
+footer{
+    color: white;
+}
